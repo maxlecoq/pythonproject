@@ -1,3 +1,6 @@
+link of dataset:
+https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated
+
 Useful Links:
 
 Steps to do/ things to analyze:
