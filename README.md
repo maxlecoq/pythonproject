@@ -1,7 +1,7 @@
 Useful Links:
 
 Steps to do/ things to analyze:
-- create new dataframe by creating the average for every ountry over the years (no develepment over time visible)
+- create new dataframe by creating the average for every country over the years (no develepment over time visible)
 - compare differnet countries over time
 - create dummys
 - use groupby
