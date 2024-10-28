@@ -11,3 +11,4 @@ Steps to do/ things to analyze:
 - create new columns (e.g. life expectancy combined for men and women,...)
 - do regressions
 - do statistical tests
+interaction terms the problem is that we don't have a lot of data mostly if we only take one country maybe can create a dummy for 2 diff period of time
