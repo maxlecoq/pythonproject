@@ -1,6 +1,8 @@
 link of dataset:
 https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated
 
+
+Find a question that is interesting to study and focus on that not cover everything
 Useful Links:
 
 Steps to do/ things to analyze:
